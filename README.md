@@ -3,8 +3,8 @@
 ### 👉 Description
 
 In this application you can be identified as a user, work and logout 🤓👌
-The user has his own basket in certain orders, in the orders there are tickets 
-and detailed information about the film, the cinema hall and at a certain time there will be a session.
+The user has his own shopping cart with orders, in the orders there are tickets 
+and detailed information about the film, the cinema hall and at a particular time there will be a session.
 
 ### 👉 Project structure
  - DAO - database communication layer
@@ -40,4 +40,4 @@ and detailed information about the film, the cinema hall and at a certain time t
   - Install Tomcat and configure in project
   - Run project
 
-![img.png](img.png)
+![img_1.png](img_1.png)

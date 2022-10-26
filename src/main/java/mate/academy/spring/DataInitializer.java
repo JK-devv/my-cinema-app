@@ -1,11 +1,14 @@
 package mate.academy.spring;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Set;
 import javax.annotation.PostConstruct;
 import mate.academy.spring.model.Role;
 import mate.academy.spring.model.User;
 import mate.academy.spring.service.RoleService;
 import mate.academy.spring.service.UserService;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Component;
 
 @Component
